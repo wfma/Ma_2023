@@ -1,0 +1,2 @@
+"","X","p_val","avg_log2FC","pct.1","pct.2","p_val_adj","gene","search_term","match_term","match_type","drug","interaction_types","sources","pmids"
+"1","JAK2",0,-0.295388662165757,0.294,0.518,0,"JAK2","TRIAMTERENE","TRIAMTERENE","Definite","TRIAMTERENE",NA,"DTC",NA
